@@ -38,9 +38,6 @@ public class swea1946 {
                 }
             }
             System.out.print("\n");
-
-
-            
         }
     }
 }
