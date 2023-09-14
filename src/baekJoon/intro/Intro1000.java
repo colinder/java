@@ -1,7 +1,6 @@
 package baekJoon.intro;
 
 import java.io.*;
-import java.util.*;
 
 public class Intro1000 {
     static double a, b;

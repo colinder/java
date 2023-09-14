@@ -27,7 +27,7 @@ public class Array1546 {
             total += e;
         }
 
-        System.out.println((total/max)*100/3);
+        System.out.println((total/max)*100/N);
 
         br.close();
     }

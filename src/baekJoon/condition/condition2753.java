@@ -1,7 +1,6 @@
 package baekJoon.condition;
 
 import java.io.*;
-import java.util.*;
 
 public class condition2753 {
     public static void main(String[] args) throws IOException {

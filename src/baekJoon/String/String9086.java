@@ -1,16 +1,19 @@
-package buffer;
+package baekJoon.String;
 
 import java.io.*;
 import java.util.*;
 
-public class BufferedReaderTest {
+public class String9086 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+
         int T = Integer.parseInt(br.readLine());
-        System.out.println(T);
 
-        
-        List<Object> Arr = new ArrayList<>();
+        for (int i = 0; i < T; i++) {
+            String[] s = br.readLine().split("");
+            System.out.println(s[0]+s[s.length-1]);
+        }
 
+        br.close();
     }
 }

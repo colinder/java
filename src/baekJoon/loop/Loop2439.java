@@ -1,7 +1,6 @@
-package baekJoon.loop;
+package baekJoon.Loop;
 
 import java.io.*;
-import java.util.*;
 
 public class Loop2439 {
     public static void main(String[] args) throws IOException {

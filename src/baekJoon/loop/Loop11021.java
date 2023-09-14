@@ -1,4 +1,4 @@
-package baekJoon.loop;
+package baekJoon.Loop;
 
 import java.io.*;
 import java.util.*;

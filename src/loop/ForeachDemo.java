@@ -1,4 +1,4 @@
-package Loop;
+package loop;
 
 public class ForeachDemo {
     public static void main(String[] args) {
