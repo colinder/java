@@ -9,6 +9,7 @@ public class App {
 
     public static void main(String[] args) throws Exception {
         System.out.println("Hello, World!");
+<<<<<<< HEAD
 
         //
         double a = 123.456;
@@ -16,6 +17,13 @@ public class App {
 
         System.out.println(simulate());
         // System.out.println(Integer.parseInt(a));
+=======
+        int a = 123;
+
+        if (""+a instanceof String) {
+            System.out.println("String");
+        }
+>>>>>>> 7d0766158b4bf44d5a3757e5747cedadb8b9d876
     }
 
     
