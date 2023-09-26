@@ -1,7 +1,6 @@
 package number;
 
 import java.io.*;
-import java.util.*;
 
 public class number {
     public static void main(String[] args) throws IOException {

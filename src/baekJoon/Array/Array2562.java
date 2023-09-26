@@ -1,7 +1,6 @@
 package baekJoon.Array;
 
 import java.io.*;
-import java.util.*;
 
 public class Array2562 {
     public static void main(String[] args) throws IOException {

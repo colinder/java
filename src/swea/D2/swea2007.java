@@ -1,7 +1,6 @@
 package swea.D2;
 
 import java.io.*;
-import java.util.*;
 
 public class swea2007 {
     public static void main(String[] args) throws IOException {

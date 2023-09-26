@@ -1,4 +1,5 @@
 import java.io.*;
+import java.util.StringTokenizer;
 
 public class App {
 
@@ -8,22 +9,18 @@ public class App {
     }
 
     public static void main(String[] args) throws Exception {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+
+        StringTokenizer st = new StringTokenizer(br.readLine());
+
+        System.out.println(st.nextToken());
+
         System.out.println("Hello, World!");
-<<<<<<< HEAD
-
-        //
-        double a = 123.456;
-        System.out.println((int) a);
-
-        System.out.println(simulate());
-        // System.out.println(Integer.parseInt(a));
-=======
         int a = 123;
 
         if (""+a instanceof String) {
             System.out.println("String");
         }
->>>>>>> 7d0766158b4bf44d5a3757e5747cedadb8b9d876
     }
 
     

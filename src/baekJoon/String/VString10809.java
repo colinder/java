@@ -1,7 +1,6 @@
 package baekJoon.String;
 
 import java.io.*;
-import java.util.*;
 
 public class VString10809 {
     public static void main(String[] args) throws IOException {

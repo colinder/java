@@ -6,7 +6,6 @@ import java.util.*;
 public class Array10807 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
         int N = Integer.parseInt(br.readLine());
         int[] arr = new int[N];
@@ -26,9 +25,7 @@ public class Array10807 {
         }
 
         System.out.println(count);
-
     }
-
 
     // public static void main(String[] args) {
     //     int[] arr = {1, 2, 3, 4, 5};

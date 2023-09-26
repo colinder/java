@@ -3,7 +3,7 @@ package baekJoon.Sort;
 import java.io.*;
 import java.util.*;
 
-public class Sort1427문자열정렬 {
+public class Sort1427문자열숫자정렬 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));

@@ -36,8 +36,6 @@ public class swea1983 {
 
             int index = 0;
             for (int j = 0; j < arr.length; j++) {
-                double a = arr[j];
-                double b = t;
                 if(arr[j] == t) {
                     index = j;
                 }

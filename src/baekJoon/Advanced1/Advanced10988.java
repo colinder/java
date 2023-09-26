@@ -1,7 +1,6 @@
 package baekJoon.Advanced1;
 
 import java.io.*;
-import java.util.*;
 
 public class Advanced10988 {
     public static void main(String[] args) throws IOException {

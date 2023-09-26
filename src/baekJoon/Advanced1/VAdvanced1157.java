@@ -1,7 +1,6 @@
 package baekJoon.Advanced1;
 
 import java.io.*;
-import java.util.*;
 
 // 알파벳을 입력받고 가장 많은 수의 알파벳을 대문자로 출력, 만약 2개 이상이라면 ? 출력
 

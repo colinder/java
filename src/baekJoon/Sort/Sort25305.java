@@ -9,11 +9,9 @@ public class Sort25305 {
         StringTokenizer st = new StringTokenizer(br.readLine());
         
         int N = Integer.parseInt(st.nextToken());
-        int k = Integer.parseInt(st.nextToken());
+        int k = Integer.parseInt(st.nextToken());        
         
-        
-        StringTokenizer scores = new StringTokenizer(br.readLine());
-        
+        StringTokenizer scores = new StringTokenizer(br.readLine());        
         
         int[] arr = new int[N];
         for (int i = 0; i < arr.length; i++) {

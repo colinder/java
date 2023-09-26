@@ -8,13 +8,14 @@ public class VString27866 {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         
         // 문자열 리스트로 입력 받기
-        // String[] s = br.readLine().split("");
-        // System.out.println(Arrays.toString(s));
+        String[] s = br.readLine().split("");
+        System.out.println(Arrays.toString(s));
 
-        String s = br.readLine();
+        // 일반 풀이
+        String ss = br.readLine();
 
         int i = Integer.parseInt(br.readLine());
-        System.out.println(s.charAt(i-1));
+        System.out.println(ss.charAt(i-1));
 
         br.close();
     }
