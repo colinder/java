@@ -11,7 +11,7 @@ public class setNMap1620 {
 		int N = Integer.parseInt(st.nextToken());
 		int M = Integer.parseInt(st.nextToken());
 
-		Map<String, Object> map = new HashMap();
+		Map<String, Object> map = new HashMap<String, Object>();
 
 		for (int i = 1; i <= N; i++) {
 			String s = br.readLine();
