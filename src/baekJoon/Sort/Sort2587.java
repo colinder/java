@@ -8,6 +8,7 @@ public class Sort2587 {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
         int[] arr = new int[5];
+
         int sum = 0;
         for (int i = 0; i < arr.length; i++) {
             int n = Integer.parseInt(br.readLine());

@@ -3,16 +3,16 @@ package HC.Q5;
 import java.io.*;
 import java.util.*;
 
-public class solution {
-    private static Map<String, Integer> pathMap;
+class javaFileSystem {
+    public static Map<String, Integer> pathMap;
 
-    public void main(String[] args) throws IOException {
+    public javaFileSystem() {
         pathMap = new HashMap<>();
         pathMap.put("/", -1);
     }
 
     public boolean createPath(String path, int value) {
-        if (path == null || path.isEmpty() || path.equals("/") || pathMap.containsKey(path)) {
+        if ( path == null || path.isEmpty() || path.equals("/") || pathMap.containsKey(path)) {
             return false;
         }
 

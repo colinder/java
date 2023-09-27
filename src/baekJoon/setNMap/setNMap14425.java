@@ -1,9 +1,9 @@
-package baekJoon.setNMap;
+package baekJoon.SetNMap;
 
 import java.io.*;
 import java.util.*;
 
-public class setNMap14425 {
+public class SetNMap14425 {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 

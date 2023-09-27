@@ -1,9 +1,9 @@
-package baekJoon.condition;
+package baekJoon.Condition;
 
 import java.io.*;
 import java.util.*;
 
-public class condition2525 {
+public class Condition2525 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 

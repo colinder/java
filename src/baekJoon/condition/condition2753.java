@@ -1,8 +1,8 @@
-package baekJoon.condition;
+package baekJoon.Condition;
 
 import java.io.*;
 
-public class condition2753 {
+public class Condition2753 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
